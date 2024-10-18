@@ -19,20 +19,24 @@
 
 
 
-.millieu {
-    text-align: center;
-}
+
 #gosh {
+    text-align: center;
+    color: black;
     
     float: left;
 
    
-    background-color: grey;
+    background-color: #D5DCE6;
     width: 30% ;
     height: 1000px;
 }
+.millieu {
+    font-weight: 100;
+    text-align: center;
+    color: #343F51;
 
- #para { 
-    text-align: center ;
-    padding: 5px;
+}
+ .space {
+    margin-left: 150px;
  }
