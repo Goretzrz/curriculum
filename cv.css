@@ -6,6 +6,8 @@
     color: aliceblue;
     text-align: center;
     padding: 15px;
+    padding-bottom: 30px;
+
     
 }
 #photo {
@@ -64,4 +66,8 @@ hr {
 }
 li {
     padding-bottom: 27px;
+}
+
+tete p {
+    vertical-align: middle;
 }
