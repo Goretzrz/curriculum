@@ -2,7 +2,7 @@
     
     background-color: #343F51;
     width: 100%;
-    height: 400px;
+    height: 300px;
     color: aliceblue;
     text-align: center;
     padding: 15px;
@@ -17,10 +17,15 @@
     padding: 5px;
 }
 
-
-
+body {
+    margin: 0px;
+}
+ ul {
+    list-style: none;
+ }
 
 #gosh {
+    
     text-align: center;
     color: black;
     
@@ -29,7 +34,7 @@
    
     background-color: #D5DCE6;
     width: 30% ;
-    height: 1000px;
+    height: 700px
 }
 .millieu {
     font-weight: 100;
@@ -40,3 +45,23 @@
  .space {
     margin-left: 150px;
  }
+
+#droite { 
+    text-align: center;
+ float: right;
+    width: 70%;
+    height: 700px;
+    background-color: white;
+}
+  
+#para {
+padding: 15px;
+
+}
+hr {
+    margin-left: 35px;
+    margin-right: 35px;
+}
+li {
+    padding-bottom: 27px;
+}
