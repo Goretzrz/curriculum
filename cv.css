@@ -1,18 +1,18 @@
 #tete {
+    
     background-color: #343F51;
     width: 100%;
-    height: 350px;
+    height: 400px;
     color: aliceblue;
-
-}
-
-
-#nom {
     text-align: center;
-    padding: 5px;
-
+    padding: 15px;
+    
 }
-#fonction {
+#photo {
+    border-radius: 50%;
+}
+
+#info {
     text-align: center;
     padding: 5px;
 }
@@ -23,14 +23,16 @@
     text-align: center;
 }
 #gosh {
+    
     float: left;
 
    
     background-color: grey;
-    width: 300px ;
-    height: 100%;
+    width: 30% ;
+    height: 1000px;
 }
-#photo {
-    padding: 15px;
-    text-align: center;
-}
+
+ #para { 
+    text-align: center ;
+    padding: 5px;
+ }
