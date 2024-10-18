@@ -1,0 +1,31 @@
+#tete {
+    background-color: blue;
+    width: 100%;
+    height: 350px;
+    padding: 5px;
+
+}
+#photo {
+    text-align: center;
+    width: 50px;
+    height: 50px;
+    padding: 5px;
+}
+#nom {
+    text-align: center;
+    padding: 5px;
+
+}
+#fonction {
+    text-align: center;
+    padding: 5px;
+}
+.gauche {
+    float: left;
+    height: 100%;
+    width: 30%;
+    padding: 5px;
+    background-color: grey;
+
+
+}
